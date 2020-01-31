@@ -125,7 +125,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <canvas id="input-canvas" width={this.imageSize} height={this.imageSize} />
-        <Styled.Heading>ONNX - Heartbeat</Styled.Heading>
+        <Styled.Heading>Project test</Styled.Heading>
         <Styled.ImagesRow>
           {SQUEEZENET_IMAGE_URLS.map((item) => (
             <Styled.ImageContainer data-selected={this.state.selectedImage === item.value} data-background={item.value} key={item.value} onClick={() => this.loadImageToCanvas(item.value)} />
