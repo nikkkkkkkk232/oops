@@ -1,6 +1,7 @@
 
 export const RESNET50_IMAGE_URLS = [
   { text: 'cat', value: 'https://i.imgur.com/CzXTtJV.jpg' },
+  {text:'gitam',value:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.getmyuni.com%2Fcollege%2Fgandhi-institute-of-technology-and-management-gitam-vishakhapatnam&psig=AOvVaw2clkebPF5jmJqJZG4DcOx6&ust=1580536863206000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjk8dSUrecCFQAAAAAdAAAAABAJ'}
   { text: 'dog', value: 'https://i.imgur.com/OB0y6MR.jpg' },
   { text: 'cheetah', value: 'https://farm2.staticflickr.com/1533/26541536141_41abe98db3_z_d.jpg' },
   { text: 'bird', value: 'https://farm4.staticflickr.com/3075/3168662394_7d7103de7d_z_d.jpg' },
